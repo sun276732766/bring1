@@ -1,0 +1,45 @@
+h1 {
+   background-color: #d9d919;
+    color: #ea0c7b;
+    font-family: "Bitstream Vera Sans Mono",serif;
+    text-align: center;
+}
+p {
+    clear:both;
+    background-color: #ea0c7b;
+    color: aqua;
+}
+.shadow {
+    text-shadow: 10px 5px 3px #666;
+}
+.dark {
+    table-border-color-dark: #412312;
+}
+.light {
+    text-align: center;
+    font-family: 幼圆;
+}
+#red {
+    direction: rtl;
+}
+#shadow {
+    text-shadow: 10px 5px 3px #dac;;
+}
+
+.dyfirst {
+    width:320px;
+    border:1px solid #ddd;
+    padding:6px;
+    font-size:17px;
+}
+.dyfirst:first-line {
+    color:#050;
+}
+.dyfirst:first-letter {
+    font-size:300%;
+    font-weight:bold;
+    color:#000;
+    float:left;
+}
+
+
